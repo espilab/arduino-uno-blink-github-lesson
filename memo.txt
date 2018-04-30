@@ -1,0 +1,1 @@
+This program was copied from sample sketch of Arduino Uno.
